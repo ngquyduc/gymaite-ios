@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		36E9BA7E2C778C1800389DCB /* gymaiteApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E9BA7D2C778C1800389DCB /* gymaiteApp.swift */; };
 		36E9BA802C778C1800389DCB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E9BA7F2C778C1800389DCB /* ContentView.swift */; };
-		36E9BA822C778C1800389DCB /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E9BA812C778C1800389DCB /* Item.swift */; };
 		36E9BA842C778C1A00389DCB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36E9BA832C778C1A00389DCB /* Assets.xcassets */; };
 		36E9BA872C778C1A00389DCB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36E9BA862C778C1A00389DCB /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -18,7 +17,6 @@
 		36E9BA7A2C778C1800389DCB /* gymaite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gymaite.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36E9BA7D2C778C1800389DCB /* gymaiteApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gymaiteApp.swift; sourceTree = "<group>"; };
 		36E9BA7F2C778C1800389DCB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		36E9BA812C778C1800389DCB /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		36E9BA832C778C1A00389DCB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		36E9BA862C778C1A00389DCB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -55,7 +53,6 @@
 			children = (
 				36E9BA7D2C778C1800389DCB /* gymaiteApp.swift */,
 				36E9BA7F2C778C1800389DCB /* ContentView.swift */,
-				36E9BA812C778C1800389DCB /* Item.swift */,
 				36E9BA832C778C1A00389DCB /* Assets.xcassets */,
 				36E9BA852C778C1A00389DCB /* Preview Content */,
 			);
@@ -141,7 +138,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				36E9BA802C778C1800389DCB /* ContentView.swift in Sources */,
-				36E9BA822C778C1800389DCB /* Item.swift in Sources */,
 				36E9BA7E2C778C1800389DCB /* gymaiteApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
